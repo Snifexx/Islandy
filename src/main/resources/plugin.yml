@@ -1,0 +1,10 @@
+name: Islandy
+version: '${version}'
+main: me.snifex.islandy.Main
+api-version: 1.19
+authors: [ Snifex_ ]
+depend:
+  - SnifexCore
+commands:
+  test:
+    usage: /<command>
